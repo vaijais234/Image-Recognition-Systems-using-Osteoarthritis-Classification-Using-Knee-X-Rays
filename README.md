@@ -1,0 +1,2 @@
+# Image-Recognition-Systems-using-Osteoarthritis-Classification-Using-Knee-X-Rays
+This paper reviews the latest deep learning advancements in KOA detection, focusing on hybrid models combining CNNs and YOLO-based models. It proposes a novel hybrid model integrating ResNet-50 for feature extraction and YOLOv8 for region localization, improving both real-time detection and classification accuracy for KOA diagnosis.
